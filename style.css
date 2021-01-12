@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    height: 935px;
+}
+
+ol {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
